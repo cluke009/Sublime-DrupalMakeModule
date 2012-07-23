@@ -1,4 +1,0 @@
-Sublime-DrupalMakeModule
-========================
-
-DrupalMakeModule
